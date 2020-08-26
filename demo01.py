@@ -1,0 +1,11 @@
+# print("hello 你好！")
+# print(2333)
+# print(())
+# print ([])
+# print({})
+a =input("请输入：")
+b =input("请输入：")
+print(len(a))
+print(len(b))
+print(len(a)+len(b))
+
